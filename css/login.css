@@ -1,0 +1,39 @@
+body {
+	font-family: Arial;
+}
+
+/*---- LOGIN ----*/
+.formlogin {
+	box-shadow: 0 0 3px #000;
+	width: 300px;
+	height: 300px;
+	overflow: hidden;
+	position: fixed;
+	padding: 10px;
+	top: 50%;
+	left: 50%;
+	margin-top: -160px;
+	margin-left: -160px;
+}
+
+.formlogin h2 {
+	text-align: center;
+}
+
+form input {
+	padding: 5px;
+	width: 280px;
+}
+
+.tombollogin {
+    background-color: #3084BF;
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+}
+
+/*---- LOGIN END----*/
